@@ -66,6 +66,9 @@
     color:white;
   }
   
+  .modal_reopen {
+    color: rgb(17, 66, 228);
+  }
   
   .entertainment p, .dining p, .wellness p {
       font-size: x-large;
@@ -89,3 +92,5 @@
   h2{
       padding-top: 25px;
   }
+
+ 

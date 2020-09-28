@@ -111,5 +111,15 @@ $(document).ready(function() {
         };
     });
     
-     
 });
+
+
+$(document).ready(function(){
+  $('.modal').modal();
+});
+
+function openPage(){
+  $('#modal1').click();
+};
+
+openPage();
