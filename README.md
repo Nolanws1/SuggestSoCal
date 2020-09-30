@@ -17,10 +17,6 @@ Within the cards are buttons that once the user clicks on, will generate deals o
 
 This site has been formatted for handset devices including, iphone, android and most responsive web browsers.
 
-## Acceptance Criteria 
-
-The website meets all of the project requirements including the following:
-
 ## Getting started and deployment
 
 This site can be accessed by clicking the link below:
@@ -45,6 +41,6 @@ Nolan Sanchez / UCR Extension Program Coding Bootcamp Student
 
 ## Screenshots
 
-<img src="imgs/portfolio_suggest" alt="screenshot of top half of webpage">
-<img src="imgs/portfolio_suggest2" alt="screenshot of bottom half of webpage">
-<img src="imgs/portfolio_suggest3" alt="screenshot of webpage modal">
+<img src="imgs/portfolio_suggest.png" alt="screenshot of top half of webpage">
+<img src="imgs/portfolio_suggest2.png" alt="screenshot of bottom half of webpage">
+<img src="imgs/portfolio_suggest3.png" alt="screenshot of webpage modal">
