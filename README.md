@@ -1,46 +1,43 @@
 # SuggestSoCal
 
-# Website
-The purpose of this webpage is to display the best wellness deals, events, and restaurant suggestions within the southern California region.
+## Description
+    A webpage that displays random dining, wellness, and entertainment suggestions located in Southern California.
+    
+## Table of Contents 
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Technologies](#technologies)
+4. [Demo](#demo)
+5. [License](#license)
+6. [Contributing](#contributing)
+7. [Tests](#tests)
+8. [Questions](#questions)
+    
+## Installation
+Clone the repo and run from default browser OR visit deployed link. 
 
-This projects features one html page linked to a JS and a CSS page:
+## Usage
+Visit the demo site <a src="https://nolanws1.github.io/SuggestSoCal/">here</a> 
 
-The website contains a:
+## Technologies
+HTML, CSS, JavaScript
 
-Header title with the project title.
+## Demo
+<img src="./imgs/SuggestSoCal-DEMO.gif" alt="demo video">
 
-A modal pop-up to explain the website function.
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+Copyright (c) 2020 Nolan Sanchez
+    
+## Contributing
+If you have suggestions, questions, or would like to contribute please reach out via email.
+    
+## Tests
+There are no specific guidelines for testing at this time. 
+    
+## Questions
+If you have any questions about the repo, you can email me at Nolanws@gmail.com. 
 
-Three cards with the categories: Entertainment, Dining, Welness. 
+Visit my page: [Github](https://github.com/Nolanws1)
 
-Within the cards are buttons that once the user clicks on, will generate deals or events within the category they are in.
-
-This site has been formatted for handset devices including, iphone, android and most responsive web browsers.
-
-## Getting started and deployment
-
-This site can be accessed by clicking the link below:
-
-https://nolanws1.github.io/SuggestSoCal/
-
-## Built With
-* HTML
-* CSS
-* JAVASCRIPT
-* Materialize
-* J-Query
-* Font-awesome
-
-## Created by
-
-Jackie Perez / UCR Extension Program Coding Bootcamp Student
-Thomas Michell / UCR Extension Program Coding Bootcamp Student
-Edgar Gonzalez / UCR Extension Program Coding Bootcamp Student
-Rudi Kraeher / UCR Extension Program Coding Bootcamp Student
-Nolan Sanchez / UCR Extension Program Coding Bootcamp Student
-
-## Screenshots
-
-<img src="imgs/portfolio_suggest.png" alt="screenshot of top half of webpage">
-<img src="imgs/portfolio_suggest2.png" alt="screenshot of bottom half of webpage">
-<img src="imgs/portfolio_suggest3.png" alt="screenshot of webpage modal">
+Check out my portfolio: [Portfolio](https://nolanws1.github.io/portfolio/)
