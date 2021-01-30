@@ -1,7 +1,6 @@
 $(document).ready(function () {
 
   var wellness = "category_slugs=beauty_health, chiropractic, dental, dermatology, eye-vision, facial, fitness, fitness_classes, gym, hair-removal, hair-salon, health-beauty, manicure-pedicure, massage, personal-training, pilates, spa, tanning, teeth-whitening, yoga";
-  var queryShopping = "https://api.discountapi.com/v2/deals?&api_key=" + apiKey;
   var queryWellness = "https://api.discountapi.com/v2/deals?" + wellness + "&api_key=" + apiKey;
   var queryDining = "https://developers.zomato.com/api/v2.1/location_details?entity_id=281&entity_type=city&apikey=278895572b867605262933245620ff46";
   var apiKey = "uFVXWRdL";

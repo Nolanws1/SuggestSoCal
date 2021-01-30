@@ -21,6 +21,9 @@ Visit the demo site <a src="https://nolanws1.github.io/SuggestSoCal/">here</a>
 
 ## Technologies
 HTML, CSS, JavaScript
+* [Ticket Master API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
+* [Zomato API](https://developers.zomato.com/api)
+* [Discount API](https://discountapi.com/)
 
 ## Demo
 <img src="./imgs/SuggestSoCal-DEMO.gif" alt="demo video">
